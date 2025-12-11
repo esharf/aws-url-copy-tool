@@ -11,7 +11,7 @@ This tool converts AWS session URLs from the clipboard into shareable URLs.
 ## installation
 
 ```bash
-brew tap esharf/aws-url-copy-tool
+brew tap esharf/main
 brew install aws-url-copy-tool
-brew services start esharf/aws-url-copy-tool/aws-url-copy-tool
+brew services start esharf/main/aws-url-copy-tool
 ```
